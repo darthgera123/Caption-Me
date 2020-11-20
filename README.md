@@ -1,7 +1,7 @@
 # Caption-Me
  Self Learning project - Image Captioning with Pytorch
 Here Im listing some resources for now. 
-Explanation given in the notebook itself. Use [this link]( )to get the dataset. Was trained on NVIDIA P100  
+Explanation given in the notebook itself. Use [this link](https://www.kaggle.com/shadabhussain/flickr8k)to get the dataset. Was trained on NVIDIA P100  
 ## Resources
 + https://towardsdatascience.com/automatic-image-captioning-with-cnn-rnn-aae3cd442d83
 + https://medium.com/@stepanulyanin/captioning-images-with-pytorch-bc592e5fd1a3
